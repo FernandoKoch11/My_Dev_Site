@@ -6,7 +6,6 @@ export function Nav() {
       {/* Cabeçalho */}
       <header className="flex flex-col items-center mb-16">
       
-        <link rel="icon" href="%PUBLIC_URL%/profile.ico" type="image/x-icon" />
 
 
         <img
